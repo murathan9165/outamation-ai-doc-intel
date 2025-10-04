@@ -1,2 +1,6 @@
-# Resume Parser
-This is a Python (PyMuPDF) resume parser I built in Google Colab, transforming one of the exercises in my AI Document Intelligence Externship with Outamation.
+# Outamation AI Document Intelligence Externship
+
+### This repo serves as the collection of AI Document Intelligence Automation projects I have built.
+
+### Contents:
+Simple Resume Parser
